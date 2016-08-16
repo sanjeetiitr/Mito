@@ -5716,3 +5716,61 @@ dl.Zebra_Accordion dt.Zebra_Accordion_Expanded {
 }
 
 
+<<<<<<< HEAD
+
+
+
+.box-style{
+  height:auto;
+  padding-top:3%;
+  padding-bottom: 3%;
+}
+.icon-work-1{
+  height: 64px;
+  width: 100%;
+  background-image: url("img/1.svg");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.icon-work-2{
+  height: 64px;
+  width: 100%;
+  background-image: url("img/2.svg");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.icon-work-3{
+  height: 64px;
+  width: 100%;
+  background-image: url("img/3.svg");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.icon-work-4{
+  height: 64px;
+  width: 100%;
+  background-image: url("img/4.svg");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.icon-work-5{
+  height: 64px;
+  width: 100%;
+  background-image: url("img/5.svg");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.box-style-works{
+	background-color: white;
+    border-radius: 5px;
+    padding:5px;border:2px solid white;
+    font-size: 13px;
+    height:300px;
+    margin-top: 10%;
+}
+
