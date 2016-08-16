@@ -545,6 +545,8 @@ button {
 
 }
 
+
+
 .title-left{
 
     text-align: left;
@@ -568,6 +570,13 @@ button {
 	margin-left: 0;
 
 }
+
+#builder-column-5476d3fe804ef .title-left h2:after{
+    
+width:0;   
+}
+
+
 
 .title p {
 
@@ -1061,19 +1070,19 @@ button {
 
 .item-list-right h3,
 
-.item-list-left h3 { margin: 0 0 25px 0; }
+.item-list-left h3 { margin: 0 0 15px 0; font-size: 22px; }
 
 
 
-.item-list-right.item-list-big li { padding: 0 80px 60px 0; }
+.item-list-right.item-list-big li { padding: 0 40px 20px 0; }
 
 
 
-.item-list-left.item-list-big li { padding: 0 0px 60px 80px; }
+.item-list-left.item-list-big li { padding: 0 0px 20px 40px; }
 
 
 
-.item-list-big li .icon { font-size: 48px; }
+.item-list-big li .icon { font-size: 30px; }
 
 
 
@@ -4886,6 +4895,8 @@ h2.head,
 
 
 
+
+
 @media (max-width: 992px) {
 
 	
@@ -5643,6 +5654,7 @@ dl.Zebra_Accordion dt.Zebra_Accordion_Expanded {
 }
 
 
+<<<<<<< HEAD
 
 
 
@@ -5699,3 +5711,5 @@ dl.Zebra_Accordion dt.Zebra_Accordion_Expanded {
     height:300px;
     margin-top: 10%;
 }
+=======
+>>>>>>> c94346fc0c345105b3747b1ebff8aa2029f3c463
