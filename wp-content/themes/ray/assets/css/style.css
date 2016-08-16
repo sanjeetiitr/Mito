@@ -5641,3 +5641,61 @@ dl.Zebra_Accordion dt.Zebra_Accordion_Expanded {
 .woocommerce-account .featured-boxes{
     margin-top: 0px!important;  
 }
+
+
+
+
+
+.box-style{
+  height:auto;
+  padding-top:3%;
+  padding-bottom: 3%;
+}
+.icon-work-1{
+  height: 100px;
+  width: 100%;
+  background-image: url("img/user.png");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.icon-work-2{
+  height: 100px;
+  width: 100%;
+  background-image: url("img/log.svg");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.icon-work-3{
+  height: 100px;
+  width: 100%;
+  background-image: url("img/code.svg");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.icon-work-4{
+  height: 100px;
+  width: 100%;
+  background-image: url("img/chart.svg");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.icon-work-5{
+  height: 100px;
+  width: 100%;
+  background-image: url("img/thunder.svg");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.box-style-works{
+	background-color: white;
+    border-radius: 5px;
+    padding:5px;border:2px solid white;
+    font-size: 13px;
+    height:300px;
+    margin-top: 10%;
+}
