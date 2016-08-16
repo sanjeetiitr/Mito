@@ -5514,6 +5514,68 @@ footer { padding: 80px 0; }
 
 
 }
+#highlights_section {
+    width: 100%;
+    height: auto;
+    background-position-y: 63%;
+    background: url("img/about.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    background-position-y: 50%;
+}
+.mito_highlights {
+    text-align: right;
+}
+.heading_about_css {
+    padding-top: 10%;
+    font-size: 1.7em;
+    padding-bottom: 3%;
+    font-weight: 600;
+}
+.about_para {
+    /* font-size: 1.4em; */
+    line-height: 1.6;
+    text-align: justify;
+}
+.mito_highlights>ul {
+    list-style-type: none;
+    /* padding-top: 10%; */
+    font-size: 1.3em;
+}
+@media only screen and (max-width: 767px)
+.heading_about_css {
+    padding-top: 10vh;
+    padding-bottom: 5vh;
+}
+@media only screen and (max-width: 767px)
+.title-center {
+    text-align: center;
+}
+@media only screen and (max-width: 480px)
+.heading_about_css {
+    padding-top: 12vh;
+    font-size: 3em;
+    padding-bottom: 8vh;
+    font-weight: 600;
+}
+@media only screen and (max-width: 767px)
+.mito_highlights>ul {
+    padding-top: 0%;
+    font-size: 2em;
+    text-align: left;
+}
+@media only screen and (max-width: 480px)
+.mito_highlights>ul {
+    padding-top: 10%;
+    font-size: 1.5em;
+    text-align: center;
+}
+@media only screen and (max-width: 480px)
+.mito_highlights{
+    
+    text-align: center;
+}
 
 
 
