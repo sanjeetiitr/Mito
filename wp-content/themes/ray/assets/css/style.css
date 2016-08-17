@@ -1070,19 +1070,19 @@ width:0;
 
 .item-list-right h3,
 
-.item-list-left h3 { margin: 0 0 25px 0; }
+.item-list-left h3 { margin: 0 0 15px 0; font-size: 22px; }
 
 
 
-.item-list-right.item-list-big li { padding: 0 80px 60px 0; }
+.item-list-right.item-list-big li { padding: 0 40px 20px 0; }
 
 
 
-.item-list-left.item-list-big li { padding: 0 0px 60px 80px; }
+.item-list-left.item-list-big li { padding: 0 0px 20px 40px; }
 
 
 
-.item-list-big li .icon { font-size: 48px; }
+.item-list-big li .icon { font-size: 30px; }
 
 
 
@@ -5654,3 +5654,62 @@ dl.Zebra_Accordion dt.Zebra_Accordion_Expanded {
 }
 
 
+<<<<<<< HEAD
+
+
+
+.box-style{
+  height:auto;
+  padding-top:3%;
+  padding-bottom: 3%;
+}
+.icon-work-1{
+  height: 100px;
+  width: 100%;
+  background-image: url("img/user.png");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.icon-work-2{
+  height: 100px;
+  width: 100%;
+  background-image: url("img/log.svg");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.icon-work-3{
+  height: 100px;
+  width: 100%;
+  background-image: url("img/code.svg");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.icon-work-4{
+  height: 100px;
+  width: 100%;
+  background-image: url("img/chart.svg");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.icon-work-5{
+  height: 100px;
+  width: 100%;
+  background-image: url("img/thunder.svg");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.box-style-works{
+	background-color: white;
+    border-radius: 5px;
+    padding:5px;border:2px solid white;
+    font-size: 13px;
+    height:300px;
+    margin-top: 10%;
+}
+=======
+>>>>>>> c94346fc0c345105b3747b1ebff8aa2029f3c463
